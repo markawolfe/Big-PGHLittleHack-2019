@@ -39,8 +39,8 @@ Feel free to send a pull request and modify this document to show your engagemen
 
 **Team Expedient aka The Godfather**
 - [Anthony Jackman](https://twitter.com/anthonydjackman)
-- twitterless Shawn Logan
-- twitterless Mike Garuccio
+- [Shawn Logan](https://twitter.com/logan2019)
+- [Mike Garuccio](https://twitter.com/mgaruccio)
 - twitterless Joe Cudzik
 - twitterless Jason Deets
 - twitterless Arun S
@@ -50,6 +50,8 @@ Feel free to send a pull request and modify this document to show your engagemen
 - twitterless Kurt Byrnes  
 - twitterless Connor Byrnes  
 - [David Stevens](https://twitter.com/PSUStevens)
+- [Joe Cudzik](https://twitter.com/JoeCudzik)
+- Twitterless Jason Dietz
 
 **Reading about Markdown and How To Use It Team**  
 - [AJ](https://twitter.com/ajkuftic) [Whitespace](https://xkcd.com/2109/) [Kuftic](https://twitter.com/ajkuftic)  
