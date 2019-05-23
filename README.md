@@ -19,27 +19,40 @@ Feel free to send a pull request and modify this document to show your engagemen
 *Confirmed attendees with a team - feel free to submit a PR to move yourself or create a new team*  
 
 **Raspberry Pi Hackers**
+Using a Raspberry Pi via python to leverage Motion detectors and a measurement device to calculate distance of how far you are from the server rack. Then be able to check again to see if person is still there.
+
 - [Eric Nielsen](https://twitter.com/ericnipro)  
 
-**Team Pineapple**
+**Team Pineapple aka Pineapple Express**
+Goal to mess with ... Parse Twitter for specific key terms using using Postman with Twitter APIs. Based on the output they will perform tasks against a vCenter Server. 
+Nailed it with beers for the team! **(BONUS)**
+
 - [David Burton](https://twitter.com/heyvburt)
 - [@carlcapozza](https://twitter.com/Carlcapozza)
 - [Tim Borland](https://twitter.com/borlandts)
 - [Greg Bates](https://twitter.com/pensrule82)
 
 **Team M&M&M**
+Leveraging Imgur APIs to uploaped images of cats via Postman
+
 - [Matt Debick](https://twitter.com/mdebick)
 - [Matt Langguth](https://twitter.com/gsxesx)
 - [Mark Wolfe](https://twitter.com/markwolfe412)
 
 **Giant Shreaglez - FIRST ON BOARD**
+Using Terraform to stand up EC2 instances and monitor them using vROPS. Levergaing Pihole as the workload.
+Using a Phonton based VM as an Ad blocker replacement to personalize Ads
+
 - [Brett Rath](https://twitter.com/pa_sre)  
 - [Wes Milliron](https://twitter.com/WesMilliron)
 - [AdminWillie](https://twitter.com/adminwillie)  
 - [Chris Reagle](https://twitter.com/ChrisReagle)
 - [Oliver Nowak](https://twitter.com/olivernowak)
 
+
 **Team Expedient aka The Godfather**
+Utilizing APIs for Twitter to parse @handles and tell how boring someone is. 
+
 - [Anthony Jackman](https://twitter.com/anthonydjackman)
 - [Shawn Logan](https://twitter.com/logan2019)
 - [Mike Garuccio](https://twitter.com/mgaruccio)
@@ -48,6 +61,8 @@ Feel free to send a pull request and modify this document to show your engagemen
 - twitterless Arun S
 
 **SuperPi**
+Decoding faluty manufacturing documentation...With drones!
+
 - [Fares Khoury](https://twitter.com/khoury1701)
 - twitterless Kurt Byrnes  
 - twitterless Connor Byrnes  
@@ -56,6 +71,9 @@ Feel free to send a pull request and modify this document to show your engagemen
 - Twitterless Jason Dietz
 
 **[Team Terraformer](TeamTerraformer.md)**  
+Deploying EC2 instances via terraform. Will use this method to deploy workloads on vCloud. 
+Great GIT flow drawings! **(BONUS)**
+
 - [AJ](https://twitter.com/ajkuftic) [Whitespace](https://xkcd.com/2109/) [Kuftic](https://twitter.com/ajkuftic)  
 - [Matt Crape](https://twitter.com/MattThatITGuy)
 - [Dan Barr](https://twitter.com/vDanBarr)
