@@ -1,10 +1,12 @@
 # Big-PGHLittleHack-2019
 
 # Table of Contents
-1. [Introduction](#Introduction)
-2. [Teams](#Teams)
-3. [Scoring Tasks](#Scoring-tasks)
-4. [Toys](#Toys)
+- [Big-PGHLittleHack-2019](#big-pghlittlehack-2019)
+- [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Teams](#teams)
+  - [Scoring-tasks](#scoring-tasks)
+  - [Toys](#toys)
 
 ## Introduction
 
@@ -53,7 +55,7 @@ Feel free to send a pull request and modify this document to show your engagemen
 - [Joe Cudzik](https://twitter.com/JoeCudzik)
 - Twitterless Jason Dietz
 
-**Reading about Markdown and How To Use It Team**  
+**[Team Terraformer](TeamTerraformer.md)**  
 - [AJ](https://twitter.com/ajkuftic) [Whitespace](https://xkcd.com/2109/) [Kuftic](https://twitter.com/ajkuftic)  
 - [Matt Crape](https://twitter.com/MattThatITGuy)
 - [Dan Barr](https://twitter.com/vDanBarr)
